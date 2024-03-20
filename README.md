@@ -79,19 +79,20 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 
-![image](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/ea6558e1-eabf-4e34-b0e2-a2a97178869e)
+![Screenshot 2024-03-20 114119](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/bc1fb72d-4ec4-40a8-b6f7-d2a6ef24fde2)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-![image](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/49fe7aaa-1764-477a-ac06-ee33fe0bad59)
+![Screenshot 2024-03-20 114329](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/b989675c-ca76-4d73-a7b9-6839fefceba8)
 
-![image](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/f41b2f62-f03a-4809-83d2-dd325e508a72)
+![Screenshot 2024-03-20 114340](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/31fcdd08-6fee-470a-9f75-febf40e05902)
 
 
 ### Histogram Equalization of Grayscale Image.
 
-![image](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/45c6c4c9-24fe-403b-9bf3-68529d423fc1)
+
+![Screenshot 2024-03-20 114235](https://github.com/Hemasonica774/Histogram-of-an-images/assets/118361409/ccf046bb-48f1-48f8-9520-e7bb0eddbd6b)
 
 
 
